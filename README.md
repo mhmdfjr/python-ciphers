@@ -1,4 +1,4 @@
-### Dokumentasi Tugas Kriptografi Ciphers
+# Dokumentasi Tugas Kriptografi Ciphers
 
 ## How to use?
 
