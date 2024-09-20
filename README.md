@@ -10,7 +10,7 @@
 - Hasil enkripsi dan dekripsi dapat diunduh dengan cara klik 'Simpan Hasil'
 
 ## Sebelum enkripsi
-![Before](image1.png "Sebelum Enkripsi")
+![Before](image2.png "Sebelum Enkripsi")
 
 ## Setelah enkripsi
-![Before](image2.png "Setelah Enkripsi")
+![Before](image1.png "Setelah Enkripsi")
