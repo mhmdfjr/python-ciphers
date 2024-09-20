@@ -7,6 +7,7 @@
 - Jalankan / Run file 'chipers-fixed.py'
 - Input text yang dienkripsi atu didekripsi ke dalam kolom input
 - Atau pilih input dari file txt dengan cara klik 'Buka File'
+- Pilih jenis enkripsi pada tombol dropdown
 - Hasil enkripsi dan dekripsi dapat diunduh dengan cara klik 'Simpan Hasil'
 
 ## Sebelum enkripsi
